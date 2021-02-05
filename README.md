@@ -13,3 +13,5 @@
 ## 5주차 : [[dacon](https://dacon.io/competitions/official/42473/overview/)] 신용카드 거래 데이터 시각화 , [KCB 금융스타일 시각화 경진대회](https://dacon.io/competitions/official/82407/overview/)
 
 ## 6주차 : [[dacon](https://dacon.io/competitions/official/229255/overview/) 퇴근시간 버스승차인원 예측 경진대회]
+
+## 7주차 : [[dacon](https://dacon.io/competitions/official/235554/overview/)] 반도체 박막 두께 분석 경진대회
