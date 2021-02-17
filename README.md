@@ -17,3 +17,5 @@
 ## 7주차 : [[dacon](https://dacon.io/competitions/official/235554/overview/)] 반도체 박막 두께 분석 경진대회
 
 ## 8주차 : [[daocn](https://dacon.io/competitions/official/235551/overview/)] 원자력발전소 상태 판단 경진대회
+
+## dacon11 : [[dacon](https://dacon.io/competitions/official/235689/overview/)] 운동 동작 분류 AI 경진대회
