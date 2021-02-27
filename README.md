@@ -23,3 +23,5 @@
 ## 9주차 : [[dacon](https://dacon.io/competitions/official/235626/overview/)] 컴퓨터 비전 학습 경진대회
 
 ## 10주차 : [[dacon](https://www.kaggle.com/c/gan-getting-started/overview)] I’m Something of a Painter Myself
+
+## 10주차-2 : [[dacon](https://dacon.io/competitions/official/235670/overview/)] 소설 작가 분류 AI 경진대회
