@@ -42,6 +42,21 @@ tf-idf : 통계적 수치들을 곱한 값.
 
 나이브 가정 : 모든 개별 변수가 조건부 독립이다.  
 
+*추가*
+
+GaussianNB vs MultinomialNB  
+
+가우시안 나이브 베이즈는 클래스별 특성들의 표준편차와 평균을 저장.  
+멀티노미얼 나이브 베이즈는 클래스별 특성들의 평균을 계산.  
+
+MultinomialNB 와 BernoulliNB  
+
+저번 코드에서는 BernoulliNB 를 썼다. 둘은 이산데이터를 다룬다.   
+GaussianNB는 연속적인 데이터를 다룬다.   
+보통 MultinomialNB가 BernoulliNB보다 성능이 좋다고 한다.  
+
+[링크](https://tensorflow.blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/2-3-4-%EB%82%98%EC%9D%B4%EB%B8%8C-%EB%B2%A0%EC%9D%B4%EC%A6%88-%EB%B6%84%EB%A5%98%EA%B8%B0/)
+
 #### 그 외 용어
 
 ETA : Estimated Time of Arrival 뭔가 마치는 예상 시간  
