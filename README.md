@@ -27,3 +27,5 @@
 ## 10주차-2 : [[dacon](https://dacon.io/competitions/official/235670/overview/)] 소설 작가 분류 AI 경진대회
 
 ## 11주차 : [[kaggle](https://www.kaggle.com/c/nlp-getting-started/overview)] Natural Language Processing with Disaster Tweets  
+
+## 12주차 : [[kaggle](https://www.kaggle.com/c/tabular-playground-series-mar-2021)] Tabular Playground Series - Mar 2021
