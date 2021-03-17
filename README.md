@@ -29,3 +29,5 @@
 ## 11주차 : [[kaggle](https://www.kaggle.com/c/nlp-getting-started/overview)] Natural Language Processing with Disaster Tweets  
 
 ## 12주차 : [[kaggle](https://www.kaggle.com/c/tabular-playground-series-mar-2021)] Tabular Playground Series - Mar 2021
+
+## 13주차 : [[sejong](https://www.kaggle.com/c/sejong-ai-challenge-p2)] sejong-ai-challenge-p2 
