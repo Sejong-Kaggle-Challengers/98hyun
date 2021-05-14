@@ -37,3 +37,5 @@
 ## 15주차 : [[sejong](https://www.kaggle.com/c/sejong-ai-challenge-p3)] sejong-ai-challenge-p3
 
 ## dacon14 : [[dacon](https://dacon.io/competitions/official/235713/overview/description/)] 신용카드 사용자 연체 예측 AI 경진대회
+
+## 16주차 : [[dacon](https://dacon.io/competitions/official/235713/overview/description)] 신용카드 사용자 연체 예측 AI 경진대회
